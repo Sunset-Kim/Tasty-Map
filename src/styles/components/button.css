@@ -1,0 +1,5 @@
+/* components/buttons.css */
+.btn {
+  @apply bg-blue-400;
+  padding: theme('spacing.4') theme('spacing.2');
+}

@@ -1,0 +1,6 @@
+.title {
+  @apply bg-rose-200;
+  h1 {
+    @apply text-amber-700;
+  }
+}

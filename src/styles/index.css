@@ -1,8 +1,9 @@
 @import 'tailwindcss/base';
 
 @import 'tailwindcss/components';
-@import './styles/components/button.css';
-@import './styles/components/typo.css';
+@import './components/button.css';
+@import './components/typo.css';
+@import './components/maker.css';
 
 @import 'tailwindcss/utilities';
 
